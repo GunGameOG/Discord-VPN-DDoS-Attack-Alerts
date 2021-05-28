@@ -25,4 +25,14 @@ Step 4. Open your SSH terminal and run the following commands.
 
   sudo apt-get install screen -y
 
+# Screenshots
+
+Discord Preview
+
+https://imgur.com/a/bLWpCXY
+
+Guilded Preview
+
+https://imgur.com/a/eViKWXY
+
 # Enjoy 
