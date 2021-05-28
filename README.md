@@ -29,10 +29,10 @@ Step 4. Open your SSH terminal and run the following commands.
 
 Discord Preview
 
-![alt text](Discord-VPN-DDoS-Attack-Alerts/Alert Prev discord.png
+![alt text](Discord-VPN-DDoS-Attack-Alerts/Alert Prev discord.PNG
 
 Guilded Preview
 
-![alt text](Discord-VPN-DDoS-Attack-Alerts/Alert Prev guilded.png
+![alt text](Discord-VPN-DDoS-Attack-Alerts/Alert prev guilded.PNG
 
 # Enjoy 
