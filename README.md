@@ -29,10 +29,10 @@ Step 4. Open your SSH terminal and run the following commands.
 
 Discord Preview
 
-https://imgur.com/a/bLWpCXY
+![alt text](screenshots/Alert Prev discord.png
 
 Guilded Preview
 
-https://imgur.com/a/eViKWXY
+![alt text](screenshots/Alert Prev guilded.png
 
 # Enjoy 
