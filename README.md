@@ -1,7 +1,7 @@
 # Discord DDoS Notification
-Discord VPN DDoS Attack Alerts
+[D]DoS Notifications sent to your Discord Server from your Dedicated Server, VPS or Discord Bot.
 
-This script sends a notification to discord using a webhook when a DDos attack is detected on your Dedicated or VPS server. It was written in ShellScript so it will work linux execution environments.
+This script sends a notification to discord using a webhook when a DDos attack is detected on your Dedicated Server or VPS server. It was written in ShellScript so it will work linux execution environments.
 
 # How to start using script
 
