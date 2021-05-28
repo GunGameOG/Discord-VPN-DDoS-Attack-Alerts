@@ -1,0 +1,15 @@
+[Unit]
+Description=Guilded DDoS Alert System
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+ExecStart=/bin/bash discordalerts.sh
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
