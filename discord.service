@@ -1,5 +1,5 @@
 [Unit]
-Description=Guilded DDoS Alert System
+Description=Discord DDoS Alert System
 After=network.target
 Wants=network-online.target
 
