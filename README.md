@@ -31,6 +31,8 @@ Step 4. Open your SSH terminal and run the following commands.
   
   systemctl enable discord
 
+  service discord start && service discord status
+  
 # Screenshots
 
 Discord Preview
@@ -40,5 +42,7 @@ Discord Preview
 Guilded Preview
 
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevGuilded.PNG "Guilded")
+
+If you need help add me on Discord GunGame-_OG#2881
 
 # Enjoy 
