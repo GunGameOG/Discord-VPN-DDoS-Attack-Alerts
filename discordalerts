@@ -13,7 +13,7 @@ while /bin/true; do
   ## tcpdump -n -s0 -c 1000 -w $dumpdir/dump.`date +"%Y%m%d-%H%M%S"`.cap
   ## echo "Detecting Attack Packets"
   ## sleep 1
-  if [ $pkt -gt 1500 ]; then ## Attack alert will display after incoming traffic reach 1500 PPS
+  if [ $pkt -gt 30000 ]; then ## Attack alert will display after incoming traffic reach 30000 PPS
     echo "Attack Detected"
     curl -H "Content-Type: application/json" -X POST -d '{
       "embeds": [{
