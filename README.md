@@ -43,6 +43,6 @@ Guilded Preview
 
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevGuilded.PNG "Guilded")
 
-If you need help add me on Discord GunGame-_OG#2881
+If you need help add my new on Discord GunGameOG#9082
 
 # Enjoy 
