@@ -44,5 +44,9 @@ Guilded Preview
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevGuilded.PNG "Guilded")
 
 If you need help add my new on Discord GunGameOG#9082
+For DDoS Protected VPN you can use the same hosting as me.
 
+https://billing.galaxygate.net/aff.php?aff=179
+Or
+https://galaxygate.net
 # Enjoy 
