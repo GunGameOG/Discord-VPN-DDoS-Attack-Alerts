@@ -77,7 +77,7 @@ while /bin/true; do
           "url": "https://imgur.com/a/1YNwLCo.gif"
         },
          "footer": {
-            "text": "Reston, VA",
+            "text": "Our system has mitigated the attack and automatic packet dumping has been deactivated.",
             "icon_url": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-800.png"
           },    
           
