@@ -57,7 +57,7 @@ Join Our Discord https://verify.guildre.store/#/oggamingnetwork
 
 # Server Hosting
 
-Galaxy Gate - ![alt tag](https://galaxygate.net)
+Galaxy Gate - https://galaxygate.net
 
 - DDoS Protection
 - Web Hosting
