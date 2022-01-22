@@ -1,4 +1,5 @@
 # Discord DDoS Notification
+
 [D]DoS Notifications sent to your Discord Server from your Dedicated Server, VPS or Discord Bot.
 
 This script sends a notification to discord using a webhook when a DDos attack is detected on your Dedicated Server or VPS server. It was written in ShellScript so it will work with linux execution environments.
@@ -33,6 +34,11 @@ Step 4. Open your SSH terminal and run the following commands.
 
   service discord start && service discord status
   
+  # Create a dumps folder
+  Create a dumps folder to be able to retrieve pcaps to patch attacks.
+  
+  mkdir dumps
+  
 # Screenshots
 
 Discord Preview
@@ -43,10 +49,20 @@ Guilded Preview
 
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevGuilded.PNG "Guilded")
 
-If you need help add my new on Discord GunGameOG#9082
-For DDoS Protected VPN you can use the same hosting as me.
+# Need help?
 
-https://billing.galaxygate.net/aff.php?aff=179
-Or
-https://galaxygate.net
+My Discord GunGameOG#9082
+  or
+Join Our Discord https://verify.guildre.store/#/oggamingnetwork
+
+# Server Hosting
+
+Galaxy Gate - ![alt tag](https://galaxygate.net)
+
+- DDoS Protection
+- Web Hosting
+- Dedicated Servers
+- Virtual Servers
+- Domains
+
 # Enjoy 
