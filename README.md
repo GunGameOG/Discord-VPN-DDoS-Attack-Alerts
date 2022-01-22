@@ -35,7 +35,7 @@ Step 4. Open your SSH terminal and run the following commands.
   service discord start && service discord status
   
   # Create a dumps folder
-  Create a dumps folder to be able to retrieve pcaps to patch attacks.
+  Create a dumps folder to retrieve pcaps to patch attacks.
   
   mkdir dumps
   
