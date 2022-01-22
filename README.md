@@ -14,7 +14,7 @@ Step 3. Use an FTP client to place discordalerts.sh into /root and place discord
 
 - Move discord.service to Systemd run mv /root/discord.service /etc/systemd/system/discord.service
 - Create a dumps folder for pcaps
-- 
+
 # Commands
 
 Step 4. Open your SSH terminal and run the following commands. 
