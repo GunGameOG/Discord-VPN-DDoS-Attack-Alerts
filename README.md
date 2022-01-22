@@ -12,7 +12,10 @@ Step 2. Download the discordalerts.sh and discord.service. You can edit any line
 
 Step 3. Use an FTP client to place discordalerts.sh into /root and place discord.service into /etc/systemd/system.
 
-# Commands to run in your SSH terminal
+- Move discord.service to Systemd run mv /root/discord.service /etc/systemd/system/discord.service
+- Create a dumps folder for pcaps
+- 
+# Commands
 
 Step 4. Open your SSH terminal and run the following commands. 
 
@@ -34,26 +37,22 @@ Step 4. Open your SSH terminal and run the following commands.
 
   service discord start && service discord status
   
-  # Create a dumps folder
-  Create a dumps folder to retrieve pcaps to patch attacks.
-  
-  mkdir dumps
   
 # Screenshots
 
-Discord Preview
+Discord
 
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevDiscord.PNG "Discord")
 
-Guilded Preview
+Guilded
 
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevGuilded.PNG "Guilded")
 
 # Need help?
 
-My Discord GunGameOG#9082
-  or
-Join Our Discord https://verify.guildre.store/#/oggamingnetwork
+Discord GunGameOG#9082
+
+Discord Server https://verify.guildre.store/#/oggamingnetwork
 
 # Server Hosting
 
