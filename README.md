@@ -56,7 +56,7 @@ Discord Server https://verify.guildre.store/#/oggamingnetwork
 
 # Server Hosting
 
-Galaxy Gate - https://galaxygate.net
+Galaxy Gate - https://billing.galaxygate.net/aff.php?aff=179
 
 - DDoS Protection
 - Web Hosting
