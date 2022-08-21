@@ -19,15 +19,15 @@ Step 3. Use an FTP client to place discordalerts.sh into /root and place discord
 
 Step 4. # Open your SSH terminal and run the following commands. 
 
-echo "apt-get update && sudo apt-get upgrade -y"
+    apt-get update && sudo apt-get upgrade -y
 
-echo "systemctl daemon-reload"
+    systemctl daemon-reload
   
-echo "systemctl start detected"
-  
-echo "systemctl enable detected"
+    systemctl start detected
+ 
+    systemctl enable detected
 
-echo "service detected start && service detected status"
+    service detected start && service detected status
   
   
 # Screenshots
