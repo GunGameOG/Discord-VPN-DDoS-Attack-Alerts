@@ -77,16 +77,14 @@ Guilded
 
 Discord GunGameOG#9082
 
-Discord Server https://verify.guildre.store/#/oggamingnetwork
+Discord Server 
 
-# Server Hosting
+# Server Hostings
 
-Galaxy Gate - https://billing.galaxygate.net/aff.php?aff=179
+Galaxy Gate
 
-- DDoS Protection
-- Web Hosting
-- Dedicated Servers
-- Virtual Servers
-- Domains
-
-# Enjoy 
+ - DDoS Protection
+ - Web Hosting
+ - Dedicated Servers
+ - Virtual Servers
+ - Domains
