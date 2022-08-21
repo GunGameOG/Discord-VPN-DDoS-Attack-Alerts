@@ -6,11 +6,17 @@ This script sends a notification to discord using a webhook when a DDos attack i
 
 # How to start using script
 
-Step 1. Head over to Discord and create a new webhook in a server and channel of your choice.
+# Step 1
 
-Step 2. Download the discordalerts.sh and discord.service. You can edit any lines in discordalerts.sh such as the Alert message, Location or host to your liking then save your changes.
+Head over to Discord and create a new webhook in a server and channel of your choice.
 
-Step 3. Use an FTP client to place discordalerts.sh into /root and place discord.service into /etc/systemd/system.
+# Step 2 
+
+Download the discordalerts.sh and discord.service. You can edit any lines in discordalerts.sh such as the Alert message, Location or host to your liking then save your changes.
+
+# Step 3 
+
+Use an FTP client to place discordalerts.sh into /root and place discord.service into /etc/systemd/system.
 
 
    Move discord.service to Systemd run 
@@ -21,9 +27,7 @@ Step 3. Use an FTP client to place discordalerts.sh into /root and place discord
       
       mkdir /root/dumps
 
-# Commands
-
-Step 4. # Open your SSH terminal and run the following commands. 
+# Open your SSH terminal and run the following commands. 
 
     apt-get update && sudo apt-get upgrade -y
 
