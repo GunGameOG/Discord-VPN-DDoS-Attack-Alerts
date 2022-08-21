@@ -12,30 +12,22 @@ Step 2. Download the discordalerts.sh and discord.service. You can edit any line
 
 Step 3. Use an FTP client to place discordalerts.sh into /root and place discord.service into /etc/systemd/system.
 
-- Move discord.service to Systemd run mv /root/discord.service /etc/systemd/system/discord.service
-- Create a dumps folder for pcaps run mkdir /root/dumps
+- Move detected.service to Systemd run > mv /root/detected.service /etc/systemd/system/detected.service
+- Create a dumps folder for pcaps run > mkdir /root/dumps
 
 # Commands
 
 Step 4. Open your SSH terminal and run the following commands. 
 
-  sudo apt-get update && sudo apt-get upgrade -y
+  > sudo apt-get update && sudo apt-get upgrade -y
 
-  sudo apt-get install tcpdump -y
-
-  sudo apt-get install dos2unix -y
-
-  sudo apt-get install curl -y
-
-  sudo apt-get install screen -y
+  > systemctl daemon-reload
   
-  systemctl daemon-reload
+  > systemctl start detected
   
-  systemctl start discord
-  
-  systemctl enable discord
+  > systemctl enable detected
 
-  service discord start && service discord status
+  > service detected start && service detected status
   
   
 # Screenshots
