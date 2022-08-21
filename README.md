@@ -39,7 +39,7 @@ Step 4. # Open your SSH terminal and run the following commands.
 
     root@chivpn1:~# service discord start && service discord status
     ● discord.service - Traffic Alert System
-     Loaded: loaded (/etc/systemd/system/disord.service; enabled; vendor preset: enabled)
+     Loaded: loaded (/etc/systemd/system/discord.service; enabled; vendor preset: enabled)
      Active: active (running) since Fri 2022-08-19 20:42:36 CDT; 59min ago
         Main PID: 149923 (bash)
         Tasks: 2 (limit: 2304)
