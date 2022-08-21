@@ -2,7 +2,7 @@
 
 [D]DoS Notifications sent to your Discord Server from your Dedicated Server, VPS or Discord Bot.
 
-This script sends a notification to discord using a webhook when a DDos attack is detected on your Dedicated Server or VPS server. It was written in ShellScript so it will work with linux execution environments.
+This script sends a notification to discord using a webhook when a DDos attack is detected on your Dedicated Server or VPS server. It was written in Shell Script so it will work with linux execution environments.
 
 # How to start using script
 
@@ -29,11 +29,11 @@ Step 4. # Open your SSH terminal and run the following commands.
 
     systemctl daemon-reload
   
-    systemctl start detected
+    systemctl start discord
  
-    systemctl enable detected
+    systemctl enable discord
 
-    service detected start && service detected status
+    service discord start && service discord status
   
 # The results after you enter step 4. commands
 
