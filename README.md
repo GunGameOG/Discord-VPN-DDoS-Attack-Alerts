@@ -88,3 +88,7 @@ Galaxy Gate
  - Dedicated Servers
  - Virtual Servers
  - Domains
+
+-------- Updated Version --------
+
+https://github.com/GunGameOG/2023-Python-DDoS-Detection-with-Discord-notification
