@@ -89,6 +89,10 @@ Galaxy Gate
  - Virtual Servers
  - Domains
 
--------- Updated Version --------
+-- Beta update --
+
+https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/releases/tag/beta
+
+-------- Python Version --------
 
 https://github.com/GunGameOG/2023-Python-DDoS-Detection-with-Discord-notification
