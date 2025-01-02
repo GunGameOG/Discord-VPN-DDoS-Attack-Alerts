@@ -89,6 +89,9 @@ Galaxy Gate
  - Virtual Servers
  - Domains
 
+https://billing.galaxygate.net/aff.php?aff=179
+
+
 -- Beta update --
 
 https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/releases/tag/beta
